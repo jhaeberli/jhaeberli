@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Julián Haeberli 👋
 
-<!--
-**jhaeberli/jhaeberli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior React Engineer with 20+ years in software engineering, including 10+ years building products for US-based teams.
 
-Here are some ideas to get you started:
+I enjoy building scalable, maintainable frontend applications and helping teams deliver reliable solutions in real enterprise environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Links
+
+- 🌐 Portfolio: https://julianhaeberli.com
+- 💼 LinkedIn: https://linkedin.com/in/julian-haeberli
+- 📄 CV (EN): https://julianhaeberli.com/cv-en.pdf
+
+---
+
+## 🚀 Featured Project
+
+### 🧱 Enterprise Backoffice (Portfolio Project)
+
+A React + TypeScript backoffice application designed to simulate real enterprise workflows.
+
+Focus areas:
+
+- Data-heavy UI performance
+- Scalable frontend architecture
+- Maintainable feature-based structure
+- Pragmatic testing and code quality practices
+- API simulation with local persistence
+
+➡️ Demo: https://backoffice.julianhaeberli.com  
+➡️ Repository: https://github.com/jhaeberli/backoffice-portfolio
+
+---
+
+## 🧩 Core Stack
+
+- React
+- TypeScript
+- TanStack Query
+- React Hook Form
+- Material UI
+- Vite
+- Vitest
+
+---
+
+## ⚙️ What I bring
+
+- Delivery-driven development
+- Performance optimization aligned with product needs
+- Clean, maintainable frontend architecture
+- Enterprise collaboration in distributed teams
+
+---
+
