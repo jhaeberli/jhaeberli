@@ -1,4 +1,4 @@
-# Hi, I'm Julián Haeberli 👋
+# Hi, I'm Julián Haeberli
 
 Senior React Engineer with 20+ years in software engineering, including 10+ years building products for US-based teams.
 
